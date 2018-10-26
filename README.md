@@ -8,3 +8,4 @@ Graded Assignment 1: https://github.com/Thijsv99/Assignments/blob/master/Graded_
 Graded Assignment 2: https://github.com/Thijsv99/Assignments/blob/master/Graded_assignment_2.ipynb
 
 Exam October 26, 2018: https://github.com/Thijsv99/Assignments/blob/master/exam_Oct_26_2018%20(1).ipynb
+Exam R September 7, 2018: https://github.com/Thijsv99/Assignments/blob/master/Resit_2_student%20(1).ipynb
